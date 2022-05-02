@@ -1,16 +1,17 @@
 ### Hi there 👋
-
-<!--
-**rathaur534/rathaur534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+ I am Arpit Rathaur
+- 🔭 I’m currently working on nodejs and MongoDB
+- 🌱 I’m currently learning Mern full stack development
+- 👯 I’m looking to collaborate on web development projects
+- skills- C programming language, C++ , HTML , CSS , Javascript ,React,nodejs.
+- Coding profile-
+- Codechef-https://www.codechef.com/users/arpit534
+- Hackerrank-https://www.hackerrank.com/arpitrathaur9
+- Leetcode-https://leetcode.com/arpitrathaur9/
+- Codeforces-https://codeforces.com/profile/Arpit534
+- 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- email-arpitrathaur9@gmail.com
+- Linkedln-https://www.linkedin.com/in/arpit-rathaur-862a571ba/
+
 -->
