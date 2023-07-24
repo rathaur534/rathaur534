@@ -2,8 +2,8 @@
  I am Arpit Rathaur
 🔭: I'm a front-end developer
 - 👯 I’m looking to collaborate on web development projects
-Skills: C programming language, C++, HTML, CSS, Javascript, ,React, SQL,Bootstrap
-- Coding profile-
+- Skills: C programming language, C++, HTML, CSS, Javascript, ,React, SQL,Bootstrap
+Coding profile
 - Codechef-https://www.codechef.com/users/arpit534
 - Hackerrank-https://www.hackerrank.com/arpitrathaur9
 - Leetcode-https://leetcode.com/arpitrathaur9/
