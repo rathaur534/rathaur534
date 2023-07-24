@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there, 👋
  I am Arpit Rathaur
-- 🔭 I’m currently working on nodejs and MongoDB
-- 🌱 I’m currently learning Mern full stack development
+🔭: I'm a front-end developer
 - 👯 I’m looking to collaborate on web development projects
-- skills- C programming language, C++ , HTML , CSS , Javascript ,React,nodejs.
+Skills: C programming language, C++, HTML, CSS, Javascript, ,React, SQL,Bootstrap
 - Coding profile-
 - Codechef-https://www.codechef.com/users/arpit534
 - Hackerrank-https://www.hackerrank.com/arpitrathaur9
