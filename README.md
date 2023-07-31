@@ -1,4 +1,4 @@
-![logo](https://github.com/rathaur534/rathaur534/blob/main/github-header-image%20(1).png)
+![logo](https://github.com/rathaur534/rathaur534/blob/main/banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Arpit Rathaur</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e473yu7zxd588ydd0uaxr08qzi9fvng72q8szaeb41x&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" alt="coding" width="400px">
@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I am funny 😎**
 
-<h3 align="left">Connect with me:/h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arpit-rathaur-862a571ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-rathaur-862a571ba" height="30" width="40" /> </a>
 <a href="https://stackoverflow.com/users/18849362/arpit-rathaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18849362" height="30" width="40"/> </a>
