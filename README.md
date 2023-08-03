@@ -1,9 +1,9 @@
 <img src="https://github.com/rathaur534/rathaur534/blob/main/banner.jpg" alt="logo" width="800">
 <h1 align="center">Hi 👋, I'm Arpit Rathaur</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer from India </h3>
 <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e473yu7zxd588ydd0uaxr08qzi9fvng72q8szaeb41x&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" alt="coding" width="400px">
 
-- 📫 How to reach me **arpitrathaur9@gmail.com**
+- 📫 How to reach me: **arpitrathaur9@gmail.com**
 
 - ⚡ Fun fact **I am funny 😎**
 
